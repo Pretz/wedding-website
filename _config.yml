@@ -1,21 +1,17 @@
-url: http://www.alexandkealie.com/
+url: http://lecors.com/
 baseurl: ''
 
 # Site settings
-title: "#kealex2016"
-email: wedding@pretzlav.com
-description: "Alex Pretzlav and Kealie Goodwin are getting married in Piedmont, CA on June 18, 2016"
+title: "#thelecors"
+email: shared@lecors.com
+description: "Danielle and Chris get married or something"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: 3dbbf0
-  secondary: 2f90b9  
+  secondary: 2f90b9
   secondary-dark: 333
 
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: http://twitter.com/apretz
 
 # Build settings
 markdown: kramdown
